@@ -39,7 +39,7 @@ public class HelloWorld {
      System.out.println("hi punu.....hi gani.........,,,");
      System.out.println("hi punu.....hi gani.........,,,");
      System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi venkata.,,,");
+     System.out.println("hi punu.....hi venkatqa.,,,");
 
   }
 }
